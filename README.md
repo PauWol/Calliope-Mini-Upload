@@ -33,7 +33,7 @@ There are three ways to install and use this tool:
   ```
 - Compile with `pyinstaller`:
   ```bash
-  pyinstaller --onefile --windowed --icon=calliope.ico CalliSync.py
+  pyinstaller --onefile --windowed --add-data "calliope.ico;." --icon=calliope.ico CalliSync.py
   ```
   > Note: `pyinstaller` can be installed using
   > ```bash
