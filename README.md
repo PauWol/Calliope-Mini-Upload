@@ -11,7 +11,8 @@ Automatically watches a folder for `.hex` files and transfers them to your conne
 
 ## 📷 Screenshot
 
-&#x20;
+<img width="938" alt="image" src="https://github.com/user-attachments/assets/7b3b0f83-fd26-4ecd-a19d-6e2ea04a4e21" />
+
 
 ## 🧰 Installation
 
