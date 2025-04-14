@@ -19,7 +19,7 @@ There are three ways to install and use this tool:
 
 ### 1. 🔽 Download Pre-Compiled EXE (Recommended)
 
-- Go to the [Releases](https://github.com/pauwol/calliope-auto-upload/releases) tab
+- Go to the [Releases](https://github.com/PauWol/Calliope-Mini-Upload/releases) tab
 - Download the latest `.exe` file for Windows
 - Double-click to run, no installation needed!
 
