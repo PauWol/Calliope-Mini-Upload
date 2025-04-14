@@ -20,9 +20,6 @@ def resource_path(relative_path):
         base_path = os.path.abspath(".")
     return os.path.join(base_path, relative_path)
 
-# Ensure UTF-8 output so emojis and special characters are handled.
-sys.stdout.reconfigure(encoding='utf-8')
-
 # -----------------------------
 # CONFIGURATION
 # -----------------------------
